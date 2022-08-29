@@ -1,0 +1,104 @@
+/* about us */
+h1{
+
+  text-align: center;
+  font-size: 30px;
+  font-weight: 100px;
+  color: rgb(18, 17, 17);
+  font-weight: 300;
+
+}
+p{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 200;
+  margin-top: %;
+}
+.list{
+  display: flex;
+  justify-content:space-around;
+ 
+
+  
+  
+}
+
+
+p.list__stt0{
+  margin-top: -0.5px;
+  font-style: italic;
+  
+}
+p.list__stt1 {
+  margin-top: -20px;
+  font-style: italic;
+  ;
+  
+
+}
+p.list__stt2{
+  margin-top: -20px;
+  font-style: italic;
+}
+p.list__stt3{
+  margin-top: -20px;
+  font-style: italic;
+}
+.list__img{
+  border-radius: 10px;
+}
+.card{
+  text-align: left;
+    display: flex;
+    background-color: rgb(232, 232, 241);
+    width: 300px;
+    height: 600px;
+    margin: 1rem 2rem;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    align-items: center;
+    border-radius: 20px;
+    float: left;
+    padding: 3rem;
+   
+}
+
+
+h2{
+  text-align: center;
+  text-shadow: grey 2px 2px 2px;
+  text-transform: capitalize;
+  
+}
+p.stt{
+  text-align: center;
+  font-size: 18px;
+}
+p.list__stt{
+  
+}
+
+/* account */
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+.login-form .fa-facebook-f {
+  background: #3B5998;
+  color: white;
+}
+.logo-facebook{
+  color:blue;
+  font-size: 20px;
+  border-radius: 50%;
+  border: 1px solid #DDDDDD;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+  height: 40px;
+  width: 40px;
+}
+}
